@@ -1,3 +1,6 @@
+배포 
+https://a-uction-fe.vercel.app
+
 ## 멤버
 ### BE
  - **남순식**
